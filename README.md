@@ -1,4 +1,4 @@
-![nvim screenshot](./images/neovim-config.png)
+![nvim screenshot](./images/neovim-info.png)
 
 # Toshiro'
 
